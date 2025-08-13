@@ -1,0 +1,252 @@
+[
+    {
+        "id":1,
+        "input":"I've um I've been having this numbness and tingling and I guess kind of burning sensation that well uh it's been happening more often in my uh left hand.",
+        "output":"I understand. Can you please tell me how long you have been experiencing this numbness, tingling, and burning sensation in your left hand?"
+    },
+    {
+        "id":2,
+        "input":"Yeah, so uh, like around three or four days ago I started, uh to get really nauseous and since then I've been vomiting every few hours and really I don't know. Just yesterday started to started to have some diarrhea as well.",
+        "output":"I understand. Thank you for sharing that information. Can you tell me if you\u2019ve noticed any other symptoms, such as fever, abdominal pain, or any changes in your appetite?"
+    },
+    {
+        "id":3,
+        "input":"I just came in here today, I've been having a lot of shoulder pain that's just kind of left me not doing any of my activities recently. Just in my left shoulder.",
+        "output":"Thank you for sharing that. Can you please describe the type of pain you're experiencing in your left shoulder? For example, is it sharp, dull, throbbing, or something else?"
+    },
+    {
+        "id":4,
+        "input":"Hi, hi there I've been having this knee pain. It started almost immediately after I was I was playing basketball on the high school team and it was during practice I jumped up for a rebound and I, when I landed I heard a pop of my my left knee and I immediately felt pain. I just went off to the off to the sideline.",
+        "output":"Hello, I'm here to assist with your intake. I'm sorry to hear about your knee pain. Can you describe the intensity of the pain on a scale from 1 to 10, with 10 being the most severe?"
+    },
+    {
+        "id":5,
+        "input":"Yeah, so I'm I'm George, the father, my daughter is 5 years old and I noticed just a few days ago that she was walking a little bit funny and kind of having a limp when she came back from school. And since since that then, she's been saying that it just hurts too much to put any weight on on that leg, on the right leg. And since then I've been like carrying her around. It's been very painful for her. So I just wanted to come in and check what might be going on.",
+        "output":"Thank you for providing this information, George. I understand your concern. Could you please describe if your daughter has had any recent falls or injuries that you\u2019re aware of?"
+    },
+    {
+        "id":6,
+        "input":"Sure, um, I've been experiencing some issues breathing, um and just a lot of coughing over the past year or so. ",
+        "output":"Hello, I'm here to assist you. I'm sorry to hear that you're having breathing issues and a persistent cough. Could you please describe when you first noticed these symptoms and if there were any specific events or circumstances that coincided with their onset?"
+    },
+    {
+        "id":7,
+        "input":"Hi, I just came in uh, I just had this sudden, just this morning after I woke up, this sudden shortness of breath and like each time I take a deep breath I'm getting this chest pain.",
+        "output":"Hello, I'm here to assist you with your medical concerns. I'm sorry to hear about your discomfort. Could you please tell me if you've experienced any chest pain or shortness of breath before today?"
+    },
+    {
+        "id":8,
+        "input":"Chest pain. ",
+        "output":"I'm sorry to hear you're experiencing chest pain. Can you please describe the nature of the pain? For instance, is it sharp, dull, burning, or crushing?"
+    },
+    {
+        "id":9,
+        "input":"so nice to meet you. I've been having this pain right in my abdomen. It's kind of like in the upper right area.",
+        "output":"Nice to meet you as well. I'm here to help gather some information about your symptoms. Can you tell me how long you've been experiencing this abdominal pain?"
+    },
+    {
+        "id":10,
+        "input":"Hey I I came in here today I I just was feeling just a bit short of breath over the last few days and I've had a so I normally have a cough, but I've just been coughing a lot more over the last week and I don't know if it's if it's something else. I I do have a COPD diagnosis which I was diagnosed with like a couple years ago, but this is this seems to be much worse.",
+        "output":"Thank you for sharing that information. I understand how concerning it can be when your symptoms worsen. Can you please tell me if you've noticed any other symptoms accompanying the increased coughing and shortness of breath, such as fever, chest pain, or changes in sputum color?"
+    },
+    {
+        "id":11,
+        "input":"Yeah, it's uh, for the last maybe three days, um it's not really pain, not in any specific spot, it just feels a bit tight in my chest area when I breathe in especially, and it just gets a bit harder to breathe and it feels more tight like especially when I go for my walks, which I do everyday, uh I try to walk my dog. So I was just, you know, worried that it could be something serious and I wanted to come and get checked out.",
+        "output":"Thank you for sharing that information. Can you tell me if you've experienced any other symptoms along with the chest tightness and difficulty breathing, such as coughing, fever, or feeling lightheaded?"
+    },
+    {
+        "id":12,
+        "input":"Hi, I've been having this back pain for the past month, so I'd just like something for it an and you know image it if possible just to figure out what it is.",
+        "output":"Hello, I'm here to assist you with your visit today. I'm sorry to hear about your back pain. Can you please describe the nature of your back pain? For example, is it sharp or dull, constant or intermittent, and does it radiate to other parts of your body?"
+    },
+    {
+        "id":13,
+        "input":"So my back has been killing me it's been hurting for the past two months, but recently it's gotten worse. I'd say over the past week or two weeks it's gotten really bad and no over the counter medication is helping with the pain. It's I'm finding it hard to walk. I can't feel anything in the groin area and I'm having so many bladder accidents.",
+        "output":"I'm sorry to hear about your discomfort. I need to gather more information to understand your condition better. Can you describe the location of your back pain? For example, is it lower, middle, or upper back pain?"
+    },
+    {
+        "id":14,
+        "input":"I just came in because I've been having this just just yesterday it started this sudden just pain over the front of my kind of like a shoulder an also elbow and it was right after doing I was just doing some workout and this pain just started and it's just like a stabbing sharp pain that hasn't really gone away since then.",
+        "output":"Hello, I'm a physician assistant bot here to help gather some information about your condition. I understand you've been experiencing a sharp, stabbing pain in your shoulder and elbow since yesterday after a workout. Could you please tell me if the pain worsens with movement or if it persists even when you're at rest?"
+    },
+    {
+        "id":15,
+        "input":"Hi, I just was brought in here today. I had a fall just waking up coming down the stairs. I fell off the last few stairs and just fell onto the right side and on, right onto my head and now, uh I couldn't even I could barely stand up and put any weight on my hip. It's the right hip.",
+        "output":"Hello, I'm here to assist you. I'm sorry to hear about your fall. Can you please describe the intensity and type of pain you are experiencing in your right hip and head? For example, is it a sharp pain, dull ache, or throbbing sensation?"
+    },
+    {
+        "id":16,
+        "input":"I've been having this pain in my knee and it's been going on now for a few weeks. It's kind of right at the, I could feel it right below my kneecap and at first it it was really only bothering me after activity, but now it's starting to hurt during as well, and so it's, it's trying to limit my ability to play basketball.",
+        "output":"Thank you for sharing that information. Can you please describe the type of pain you're experiencing in your knee? For example, is it sharp, dull, throbbing, or aching?"
+    },
+    {
+        "id":17,
+        "input":"I just came in here today, I've been having a lot of shoulder pain that's just kind of left me not doing any of my activities recently. Just in my left shoulder.",
+        "output":"I'm sorry to hear about your shoulder pain. Can you tell me how long you have been experiencing this pain in your left shoulder?"
+    },
+    {
+        "id":18,
+        "input":"Yeah, I'm so I'm here with my mom because I am having this pain in my right hip and groin area. Um I was playing with my friends too. Maybe yeah, yesterday and I fell down. I didn't fall down hard, but I had a small fall and since then my hip has been hurting and it's painful for me to bear any weight on my right leg.",
+        "output":"Thank you for sharing that information. How would you describe the pain in your right hip and groin area\u2014 is it sharp, dull, throbbing, or something else?"
+    },
+    {
+        "id":19,
+        "input":"Hi, yesterday I was grocery shopping and, yeah, just in the parking lot somebody bumped into my car and this morning I woke up and my neck is just really painful. It hurt yesterday a little bit, but I mean it was so mild I didn't think much of it. But today it's it's quite a bit worse.",
+        "output":"I'm sorry to hear about your accident and discomfort. I need to gather some more information to better understand your condition. Could you describe the nature of your neck pain? Is it sharp, dull, throbbing, or does it feel like stiffness?"
+    },
+    {
+        "id":20,
+        "input":"I'm doing OK, I just had this cough that's really started to bug me.",
+        "output":"Thank you for sharing that. Can you tell me how long you have been experiencing this cough?"
+    },
+    {
+        "id":21,
+        "input":"I'm just having this really sharp pain in my chest and I'm scared. I think I'm having a heart attack.",
+        "output":"I'm very sorry to hear that you're experiencing this pain. Could you please describe the location of the pain in your chest? Is it in the center, left side, right side, or does it radiate to other areas such as your arm, neck, jaw, or back?"
+    },
+    {
+        "id":22,
+        "input":"Um, hi, I'm here with my daughter. Uh, we noticed that uh, since yesterday she's been having this pain just in her elbow. Um, and like today, we've noticed right after she woke up, she's been in pain and also just keeping her elbow like protected, um, kind of like just flexing it and just holding on to it. So I think it's uh, giving her a lot of discomfort and she's been crying as well.",
+        "output":"Hello, I understand your concerns about your daughter's discomfort. Could you please tell me if your daughter experienced any trauma or injury to her elbow, such as falling or bumping it, before the pain started?"
+    },
+    {
+        "id":23,
+        "input":"Hi, this morning I read after I woke up by I coughed up some phlegm and there was some blood in it and it it totally scared me. ",
+        "output":"Hello, I'm here to assist with your intake process. I understand your concern about coughing up blood. Could you please tell me how much blood you noticed and if it has happened more than once?"
+    },
+    {
+        "id":24,
+        "input":"So I've had this stuffy nose for the past three days. I'm getting some yellow discharge from the nose. I can't seem to smell well. And I have had this terrible headache for the past two days as well.",
+        "output":"Thank you for sharing this information. I understand how uncomfortable that can be. Could you please let me know if you have been experiencing any fever or chills along with these symptoms?"
+    },
+    {
+        "id":25,
+        "input":"Hi, I'm here because I've had this numbness and tingling in my feet for awhile now and I started to notice these open wounds on my feet as well and I'm not feeling it, but it's there.",
+        "output":"Hello, I'm here to assist with gathering information about your symptoms. Can you please tell me how long you've been experiencing the numbness and tingling in your feet?"
+    },
+    {
+        "id":26,
+        "input":"I'm so I was skiing yesterday and I fell on my arm and now and it's it's my hands very painful and it looks swollen and bruised. So I thought I should come in and get it checked out.",
+        "output":"Hello, I'm a physician assistant bot here to help gather some information about your visit. I\u2019m sorry to hear about your injury. Could you please tell me if you are able to move your arm or hand, even if it is painful?"
+    },
+    {
+        "id":27,
+        "input":"Sure, you know I've been feeling kinda hot for the past couple of days and I have this terrible, terrible headache. And just my brain feels foggy. So I thought I should come get it checked out.",
+        "output":"Thank you for sharing that with me. I'm here to help gather some information for the physician. How high has your temperature been, and have you been measuring it with a thermometer?"
+    },
+    {
+        "id":28,
+        "input":"I've just been experiencing a, some pain and numbness and tingling in in just my wrist area and thumb, middle finger, and index finger.",
+        "output":"Thank you for sharing that. Can you tell me how long you have been experiencing this pain, numbness, and tingling in your wrist and fingers?"
+    },
+    {
+        "id":29,
+        "input":"I've just been feeling like very nauseated for, it feels like all the time right now.",
+        "output":"I'm sorry to hear that you're feeling nauseated. Can you tell me how long you've been experiencing this nausea?"
+    },
+    {
+        "id":30,
+        "input":"Yeah I just came in here today I've been experiencing some difficulties with my right hand, especially at the bases of the 4th and 5th digits. I notice this happening over the last I'd say probably last few months it's been getting worse. I've been having trouble just kind of extending those two fingers and I kind of see like this little bump at the base of those two fingers. So yeah overall it's just been difficult working, I'm a construction worker and I don't know if this just keeps getting worse.",
+        "output":"Thank you for sharing that with me. When you experience these difficulties with your right hand, do you also feel any pain, numbness, or tingling sensations in your 4th and 5th digits or in the bump at their base?"
+    },
+    {
+        "id":31,
+        "input":"Yeah, I woke up this morning and I was just feeling suddenly feeling very short of breath and I just wasn't sure what was going on, so I thought I would come in.",
+        "output":"Thank you for sharing that. Can you tell me if you are experiencing any other symptoms along with the shortness of breath, such as chest pain, coughing, wheezing, or dizziness?"
+    },
+    {
+        "id":32,
+        "input":"Uh I just came in today I think I broke my leg or something, it's something that was, I heard a snap, I was in um just a dance class um and we have like these long uh dresses, it it was a traditional dance class and my foot uh slipped right onto, it got caught in my dress and it just kind of slipped and I I felt right on my, my leg kind of twisted and I fell down and I just stayed down. I knew something was not right and something was broken.",
+        "output":"I'm sorry to hear that you had such an unfortunate accident. Can you tell me which part of your leg is hurting the most right now and if you've noticed any swelling or bruising in that area?"
+    },
+    {
+        "id":33,
+        "input":"I'm I am here because I've had this intense pain in my right foot for the past six hours or so or so, and I thought it was important to come get it checked out by you guys.",
+        "output":"Hello, I am the physician assistant bot here to help gather some information for the doctor. Can you please describe the pain in your right foot? Is it sharp, dull, throbbing, or something else?"
+    },
+    {
+        "id":34,
+        "input":"I just had uh, well, it was just uh, I came from football practice I, uh, just felt like somebody fell on me while, like while I was on the ground and it's like, I've had this shoulder pain immediately afterwards and I can see a, like lump, um, kind of pointing out like in my skin here on my, on my, um, clavicle or shoulder bone.",
+        "output":"Hello, I\u2019m the physician assistant bot here to help with your intake process. It sounds like you experienced a possible injury during football practice. Can you please describe the pain in your shoulder? Is it sharp, dull, constant, or does it come and go?"
+    },
+    {
+        "id":35,
+        "input":"I have been coughing these last two weeks since I got back from Mexico. I think I got sick there.",
+        "output":"Thank you for sharing that information. Can you describe the nature of your cough? For example, is it a dry cough or are you producing any phlegm?"
+    },
+    {
+        "id":36,
+        "input":"Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here to kind of figure out what it is.",
+        "output":"Hello, I'm your physician assistant bot. I'm here to collect some information about your symptoms to assist the physician. Could you describe the nature of the pain in your left elbow? For example, is it a sharp, dull, aching, or throbbing pain?"
+    },
+    {
+        "id":37,
+        "input":"so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself and he's been having this stomach ache. Uh, so it started around like I would say 3 days ago and then he's also having vomiting for the last two days, he's vomited in total six times over the last two days and then yesterday he also developed a fever as well. I managed to measure it and it was 38.3 degrees Celsius. ",
+        "output":"Thank you for providing that information. Could you tell me if your son has had any other symptoms, such as diarrhea, changes in appetite, or lethargy?"
+    },
+    {
+        "id":38,
+        "input":"Yeah, I I. It's just over the last week I can't like do anything without just feeling really like short of breath. I'm having a really hard time breathing. Like kind of do anyways because I have COPD. So I feel like over a few years it's been getting worse, but this week it just got really bad in particular.",
+        "output":"I\u2019m sorry to hear that you\u2019re experiencing this. Can you describe any other symptoms you\u2019ve had over the past week, such as chest pain, coughing more than usual, fever, or wheezing?"
+    },
+    {
+        "id":39,
+        "input":"Low back pain.",
+        "output":"Thank you for sharing that. How long have you been experiencing this low back pain?"
+    },
+    {
+        "id":40,
+        "input":"Um I'm here because my left hand, kind of just like at the base of my thumb, has been hurting for the past two days and it seems to be getting worse, um and I'm left handed so it's really hard for me to write or do anything um where I have to like, clench or grip things.",
+        "output":"Thank you for sharing that. I understand how discomforting that can be. Can you describe the type of pain you are experiencing? Is it a sharp, stabbing pain, a dull ache, or something else?"
+    },
+    {
+        "id":41,
+        "input":"Hey Doc, I'm a 45 year old man coming in, I'm worried there's a little old rash on my leg that I'm getting nervous about.",
+        "output":"Hello, I'm a physician assistant bot here to help gather some initial information about your visit today. Could you please describe the appearance of the rash on your leg? For example, its color, size, and if there are any accompanying symptoms like itching or pain?"
+    },
+    {
+        "id":42,
+        "input":" I have had this cough for the past five days and it doesn\u2019t seem to be getting any better so I\u2019m just here to ask you what it what it possibly could be.",
+        "output":"Hello, I'm a physician assistant bot, and I'm here to help gather some information about your symptoms. How would you describe your cough\u2014is it dry, or are you producing any mucus?"
+    },
+    {
+        "id":43,
+        "input":"I've been having issues with just a cough that's just been constantly like bothering me for the past few bit.",
+        "output":"Hello, I'm your physician assistant bot here to gather some information about your symptoms. I understand you're experiencing a persistent cough. Could you please tell me how long this cough has been bothering you?"
+    },
+    {
+        "id":44,
+        "input":"Hi, yes, I just brought my son to the ER. We've noticed in the last two days he's been just making these grunting noises and just seems a little bit like just not himself, just more quiet. Not really crying.",
+        "output":"I'm sorry to hear that your son is not feeling well. Can you please tell me if you\u2019ve noticed any changes in his eating or sleeping patterns over the last two days?"
+    },
+    {
+        "id":45,
+        "input":"Yeah, it's uh, for the last maybe three days, um it's not really pain, not in any specific spot, it just feels a bit tight in my chest area when I breathe in especially, and it just gets a bit harder to breathe and it feels more tight like especially when I go for my walks, which I do everyday, uh I try to walk my dog. So I was just, you know, worried that it could be something serious and I wanted to come and get checked out.",
+        "output":"Thank you for sharing that information. Can you tell me if you have experienced any other symptoms in addition to the chest tightness, such as coughing, fever, or shortness of breath at rest?"
+    },
+    {
+        "id":46,
+        "input":"Yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out.",
+        "output":"Hello, I'm here to assist with your visit today. Can you please describe when you first noticed the breathlessness and if there are specific activities or times of day when it seems to get worse?"
+    },
+    {
+        "id":47,
+        "input":"Hi, um so I've had this terrible fever for the past three days um and just before that I had a stuffy nose um and I had a sore throat, well I still do, um and it's just not going away, so I thought I should just come in and see if I have covid or what it is.",
+        "output":"I'm sorry to hear that you're feeling unwell. Let's gather some more information to help better understand your symptoms. Could you please tell me if you've experienced any other symptoms such as coughing, shortness of breath, or body aches?"
+    },
+    {
+        "id":48,
+        "input":"OK, I'm so I have been coughing a lot over the past week or so. And it's been pretty dry, but I've been coughing like almost nonstop throughout the day, and I'm feeling very short of breath, and my bronchodilator helps, but I found I'm using it a lot now.",
+        "output":"Thank you for sharing that information. Can you tell me if you've noticed any other symptoms, such as fever, chest pain, or a change in the color of your mucus?"
+    },
+    {
+        "id":49,
+        "input":"Hi there, I've just last night I was, I went for a run and I twisted my ankle. I think I stepped on something and it it really hurts.",
+        "output":"I'm sorry to hear about your injury. How would you rate the pain in your ankle on a scale of 1 to 10, with 10 being the most severe?"
+    },
+    {
+        "id":50,
+        "input":"Yeah, nice to meet you I, I've been having just over the last week my cough that's been getting worse and I had a fever a couple of nights and just yesterday I noticed that I started having a loss of taste and smell so that got me really worried.",
+        "output":"Hello, I\u2019m here to assist you with your concerns. I understand that you've been experiencing a worsening cough, fever, and a recent loss of taste and smell. Could you please describe your cough in more detail? For example, is it dry or productive (produces phlegm), and does anything seem to trigger it or make it better?"
+    }
+]

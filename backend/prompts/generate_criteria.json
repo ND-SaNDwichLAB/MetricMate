@@ -1,0 +1,11 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "Generate a list of high-level dimension of quality that apply to the following context based on a given set of input-output pairs and a chatbot context.\n\nSteps\nUnderstand Context: Review the provided chatbot context to understand the operational environment and its primary goals.\nAnalyze Input-Output Pairs: Examine each input-output pair to identify recurring themes, patterns, and any variations that highlight different aspects of quality.\nExtract Broad Dimensions: Derive high-level criteria that are broadly applicable across multiple input-output pairs, focusing on overall quality attributes.\nSummarize: Condense output into a concise list that can guide quality assessment in similar chatbot interactions.\nOutput Format should be in the following json format\n{\"criteria\":[\n  {\n    \"criteria_name\": \"<CRITERIA NAME>\",\n    \"criteria_definition\": \"<CRITERIA DEFINITION>\"\n  }\n]\n}"
+      }
+    ]
+  }
+]

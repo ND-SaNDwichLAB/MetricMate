@@ -1,0 +1,11 @@
+[
+    {
+		"role": "system",
+		"content": [
+		  {
+			"text": "For the given high-level criteria suggest executable assertions that can be used to validate the high-level criteria. The assertions should be mutually exclusive from each other. If the user provides previous assertions, make sure to generate assertions that do not overlap with them. All assertions should start with the work 'assert'. Only suggest at most three assertions. \nYour response should be in the following json format\n{\n\"assertions\": [\n\"assertion1\",\n\"assertion2\" etc\n]}",
+			"type": "text"
+		  }
+		]
+	  }
+]

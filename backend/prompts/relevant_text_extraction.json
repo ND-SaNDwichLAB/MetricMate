@@ -1,0 +1,29 @@
+[
+	{
+		"role": "system",
+		"content": [
+			{
+				"type": "text",
+				"text": "For the following assertion give me a list of short relevant texts from the input and outputs. If there is no relevant text feel free to return an empty list. Make sure the texts you give me are short so that the reader can skim through it and validate the assertion. Your output should be in the following JSON format\n{\"input_reasoning\":[\"<TEXT 1>,...],\n\"output_reasoning\":[\"<TEXT 1>,...]}"
+			}
+		]
+	},
+	{
+		"role": "user",
+		"content": [
+			{
+				"type": "text",
+				"text": "Input= \"Hi, yes, I just brought my son to the ER. We've noticed in the last two days he's been just making these grunting noises and just seems a little bit like just not himself, just more quiet. Not really crying.\"\n\noutput=\"I'm sorry to hear that your son is not feeling well. Can you please tell me if you’ve noticed any changes in his eating or sleeping patterns over the last two days?\"\n\nAssertion=\"assert the bot uses positive language such as 'please' and 'thank you' in its responses\""
+			}
+		]
+	},
+	{
+		"role": "assistant",
+		"content": [
+			{
+				"type": "text",
+				"text": "{\"input_reasoning\":[],\n\"output_reasoning\":[\"I'm sorry to hear\", \"Can you please tell me if you’ve noticed\"]}"
+			}
+		]
+	}
+]

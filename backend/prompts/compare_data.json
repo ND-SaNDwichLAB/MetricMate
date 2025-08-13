@@ -1,0 +1,9 @@
+{
+	"role": "system",
+	"content": [
+	  {
+		"type": "text",
+		"text": "Compare input-output pairs from two groups: one liked by the user and the other disliked. Analyze differences to generate criteria that distinguish the liked from the disliked, ensuring there is no overlap between criteria. For example, combine similar attributes like \"comprehensive\" and \"detailed.\"\n\n- Examine all groups of input-output pairs, identifying unique patterns or themes within each group.\n- Focus on identifying contrasts between the groups that are significant for user preferences.\n- Synthesize these observations into clear, distinct criteria without overlap for each group.\n\n# Steps\n\n1. **Identify Key Features**: Review each input-output pair in both groups to pinpoint key features or characteristics.\n2. **Pattern Recognition**: Identify any recurring themes or patterns in the liked group and the disliked group, ensuring descriptions are distinct.\n3. **Contrast Analysis**: Compare and contrast these patterns or features to find distinct, non-overlapping differences between the two groups.\n4. **Criteria Formulation**: Formulate criteria based on your analysis that can be used to distinctly set apart liked and disliked pairs.\n   \nIn your description, use the group name (group 1 or group 2) to refer to the data. Provide at most 3 of the most useful and distinguishing criteria, ensuring no overlap between them.\n\n\nProvide criteria in a JSON format such as the following:\n{\n\"group_number\":[\n{\"criteria_title\": \"Distinctive_criteria for the group\", \n\"criteria_description\": \"A unique explanation for the chosen criteria.\"}\n]}"
+	  }
+	]
+  }

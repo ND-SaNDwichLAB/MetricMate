@@ -1,0 +1,16 @@
+.drop-zone,
+.drag-zone {
+  width: 90% !important;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  min-height:100px;
+  max-height: 200px;
+  overflow: hidden;
+  overflow-y: scroll;
+  background-color: #f9f9f9;
+}
+
+.drag-zone {
+  background-color: #f9e9e9;
+}

@@ -1,0 +1,18 @@
+{
+	"db7c0d7d-4050-46ef-b79d-91e5b0e68b8e": {
+		"name": "patient_bot_output",
+		"type": "tsv",
+		"file": "data/uploaded_data/patient_bot_output.tsv",
+		"uploaded_date": "2024-10-01 15:21:07",
+		"id": "db7c0d7d-4050-46ef-b79d-91e5b0e68b8e",
+		"context": "clinic patient intake bot"
+	},
+	"4808d352-c517-413d-ad08-1e8f600ed83b": {
+		"name": "email_bot_input_outputs",
+		"type": "tsv",
+		"file": "data/uploaded_data/email_bot_input_outputs.tsv",
+		"uploaded_date": "2025-01-14 21:48:57",
+		"id": "4808d352-c517-413d-ad08-1e8f600ed83b",
+		"context": "student email response"
+	}
+}
